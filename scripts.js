@@ -1,4 +1,4 @@
-$(document).ready function()
+$(document).ready  function()
     {
         $(".links").css('background-color', 'gray');
         $("this").css('border-color', 'black')
