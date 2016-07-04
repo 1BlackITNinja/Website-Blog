@@ -15,3 +15,30 @@ text-align: center
     width: 60px;
     height: 60px;
     }
+.links
+    {
+    margin-top: 20px;
+    border-radius: 25px;
+    background: linear-gradient(#0000FF, #00FFFF);
+    padding: 20px;
+    width: 1920px;
+    height: 50px;
+    }
+.links ul
+{
+
+}
+.links ul li
+    {
+        list-style: none;
+    }
+.links ul li a
+    {
+        text-decoration: none;
+        float: left;
+        display: block;
+        padding: 10px 20px;
+        color: #000000;
+        font-size: 200%;
+
+    }
